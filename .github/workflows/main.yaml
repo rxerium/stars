@@ -3,7 +3,7 @@ name: Stargazer
 
 on:
   schedule:
-    - cron: '42 2 * * *'
+    - cron: '0 2 1 * *'
 
   workflow_dispatch:
 
